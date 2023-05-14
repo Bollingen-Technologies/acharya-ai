@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acharya-ai/static/css/main.38bafb98.css",
-    "main.js": "/acharya-ai/static/js/main.909ceac1.js",
+    "main.css": "/acharya-ai/static/css/main.027aec87.css",
+    "main.js": "/acharya-ai/static/js/main.8bc4c1d3.js",
     "static/js/787.5cd20499.chunk.js": "/acharya-ai/static/js/787.5cd20499.chunk.js",
     "static/media/anchor.svg": "/acharya-ai/static/media/anchor.e77840b37f9e9d1c7aff.svg",
     "index.html": "/acharya-ai/index.html",
@@ -10,12 +10,12 @@
     "static/media/volume-xmark-solid.svg": "/acharya-ai/static/media/volume-xmark-solid.1633bc313ebab9ef0e6dbfc7f6297af5.svg",
     "static/media/microphone-solid.svg": "/acharya-ai/static/media/microphone-solid.dda41902d0ca8208d37f55f7a332bae4.svg",
     "static/media/send.svg": "/acharya-ai/static/media/send.b57baf801b2e06c19df469a35ba18640.svg",
-    "main.38bafb98.css.map": "/acharya-ai/static/css/main.38bafb98.css.map",
-    "main.909ceac1.js.map": "/acharya-ai/static/js/main.909ceac1.js.map",
+    "main.027aec87.css.map": "/acharya-ai/static/css/main.027aec87.css.map",
+    "main.8bc4c1d3.js.map": "/acharya-ai/static/js/main.8bc4c1d3.js.map",
     "787.5cd20499.chunk.js.map": "/acharya-ai/static/js/787.5cd20499.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38bafb98.css",
-    "static/js/main.909ceac1.js"
+    "static/css/main.027aec87.css",
+    "static/js/main.8bc4c1d3.js"
   ]
 }
