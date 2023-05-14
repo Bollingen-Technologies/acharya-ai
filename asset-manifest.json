@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acharya-ai/static/css/main.38bafb98.css",
-    "main.js": "/acharya-ai/static/js/main.8de4cd96.js",
+    "main.js": "/acharya-ai/static/js/main.336403e8.js",
     "static/js/787.5cd20499.chunk.js": "/acharya-ai/static/js/787.5cd20499.chunk.js",
     "static/media/anchor.svg": "/acharya-ai/static/media/anchor.e77840b37f9e9d1c7aff.svg",
     "index.html": "/acharya-ai/index.html",
@@ -11,11 +11,11 @@
     "static/media/microphone-solid.svg": "/acharya-ai/static/media/microphone-solid.dda41902d0ca8208d37f55f7a332bae4.svg",
     "static/media/send.svg": "/acharya-ai/static/media/send.b57baf801b2e06c19df469a35ba18640.svg",
     "main.38bafb98.css.map": "/acharya-ai/static/css/main.38bafb98.css.map",
-    "main.8de4cd96.js.map": "/acharya-ai/static/js/main.8de4cd96.js.map",
+    "main.336403e8.js.map": "/acharya-ai/static/js/main.336403e8.js.map",
     "787.5cd20499.chunk.js.map": "/acharya-ai/static/js/787.5cd20499.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38bafb98.css",
-    "static/js/main.8de4cd96.js"
+    "static/js/main.336403e8.js"
   ]
 }
